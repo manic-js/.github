@@ -2,6 +2,8 @@
 
 Manic JS is a Bun-first ecosystem for building and deploying high-performance React applications.
 
+The fastest framework for React.
+
 ## Repositories
 
 - Core framework: [manic-js/manic](https://github.com/manic-js/manic)
